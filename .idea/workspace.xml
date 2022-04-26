@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3474e36f-0173-4b8a-a61b-d432f3fdf6ce" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/knowledge/listView.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/knowledge/listView.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,8 +310,18 @@
       <workItem from="1650279653748" duration="1665000" />
       <workItem from="1650522464887" duration="584000" />
       <workItem from="1650867367071" duration="17996000" />
-      <workItem from="1650955314492" duration="259000" />
+      <workItem from="1650955314492" duration="1345000" />
+      <workItem from="1650956783305" duration="183000" />
+      <workItem from="1650958479495" duration="618000" />
     </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1650955630724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650955630724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,6 +337,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
