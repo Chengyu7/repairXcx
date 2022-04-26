@@ -17,7 +17,7 @@ app.config['REDIS_EXPIRE'] = 60  # redis 过期时间60秒
 app.config.from_object(config)
 db.init_app(app)
 
-# 注册user，使用前缀 user 作为前缀访问
+# 注册user，使用前缀 user 作为前缀
 app.register_blueprint(user, url_prefix='/user')
 # 注册api，使用前缀 api 作为前缀访问
 app.register_blueprint(api, url_prefix='/api')
